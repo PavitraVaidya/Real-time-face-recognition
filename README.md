@@ -12,7 +12,7 @@
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 ```bash
 .
 ├── main.py               # Main menu
@@ -28,7 +28,7 @@
 ```
 ---
 
-# ⚙ Installation
+## ⚙ Installation
 
 ### 1. Clone the repository:
 ```bash
@@ -41,13 +41,13 @@ pip install opencv-python opencv-contrib-python pandas numpy
 ```
 ---
 
-# 🏃 Usage
+## 🏃 Usage
 Run the main program:
 ```bash
 python main.py
 ```
 
-# Interactive menu:
+## Interactive menu:
 
 1. Register new person
 2. Train model
@@ -64,13 +64,13 @@ Delete Data: Remove all images, CSV, and model.
 
 ---
 
-# 🧩 How it Works
+## 🧩 How it Works
 
 1. Face Detection: OpenCV Haar Cascade detects faces.
 2. Face Recognition: LBPH algorithm predicts registered faces.
 3. Data Storage: Details saved in details.csv and face images in faces/.
 4. Lockout Mechanism: Avoid repeated recognition prints within 5 seconds.
 
-# 📝 License
+## 📝 License
 MIT License © 2025
 You are free to use, modify, and distribute this project.
