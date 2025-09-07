@@ -1,15 +1,15 @@
 # 🐱 Face Recognition System
-A real-time face recognition system built with Python and OpenCV.
+### A real-time face recognition system built with Python and OpenCV.
 Register, train, and recognize faces via webcam in a few simple steps! 🧑‍🤝‍🧑
 ---
 
-# ✨ Features
+## ✨ Features
 
-🆕 Register New Person – Capture faces and store personal details
-🤖 Train Model – Train the LBPH face recognizer
-👀 Recognize Person – Real-time detection & recognition
-🗑 Delete All Data – Clear all faces, CSV, and trained models
-💻 Interactive CLI – Easy-to-use menu interface
+### 🆕 Register New Person – Capture faces and store personal details
+### 🤖 Train Model – Train the LBPH face recognizer
+### 👀 Recognize Person – Real-time detection & recognition
+### 🗑 Delete All Data – Clear all faces, CSV, and trained models
+### 💻 Interactive CLI – Easy-to-use menu interface
 
 ---
 
