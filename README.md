@@ -4,7 +4,6 @@
 ---
 
 ## ✨ Features
-
 #### 🆕 Register New Person – Capture faces and store personal details
 #### 🤖 Train Model – Train the LBPH face recognizer
 #### 👀 Recognize Person – Real-time detection & recognition
